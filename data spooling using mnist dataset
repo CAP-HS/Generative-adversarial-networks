@@ -1,3 +1,6 @@
+#a simple program used for spoiling a data
+
+
 import os
 from PIL import Image
 
